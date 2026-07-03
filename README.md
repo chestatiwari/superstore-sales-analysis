@@ -1,4 +1,3 @@
-# superstore-sales-analysis
 # Superstore Sales Analysis
 
 ## Project Overview
